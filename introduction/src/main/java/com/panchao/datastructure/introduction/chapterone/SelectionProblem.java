@@ -9,7 +9,6 @@ package com.panchao.datastructure.introduction.chapterone;
  */
 public class SelectionProblem {
 	/**
-	 * sfdsfas23xvfdgd的非官方的手感还是高仿的
 	 * @Title: bubblesort
 	 * @Description: 使用冒泡排序法对数组进行排序，并返回第k个最大者
 	 * @param nums
