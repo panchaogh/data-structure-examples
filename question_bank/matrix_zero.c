@@ -40,7 +40,7 @@ int main() {
 
     printf("置零后：\n");
     printMatrix(matrix, matrixSize, matrixColSize);
-
+    return 0;
 }
 
 void init(int ***matrix, int matrixSize, const int *matrixColSize) {
